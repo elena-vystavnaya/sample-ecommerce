@@ -1,1 +1,1 @@
-# sample-ecommerce.github.io
+# sample-ecommerce
